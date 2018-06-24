@@ -48,7 +48,15 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Demo.cs" />
+    <Compile Include="Demo.2.cs" />
+    <Compile Include="Demo.3.cs" />
+    <Compile Include="Demo.4.cs" />
+    <Compile Include="Demo.5.cs" />
+    <Compile Include="Demo.6.cs" />
+    <Compile Include="Demo.7.cs" />
+    <Compile Include="Demo.8.cs" />
+    <Compile Include="Demo.1.cs" />
+    <Compile Include="Demo.9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
